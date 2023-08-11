@@ -28,6 +28,7 @@ Example designs are included for the following FPGA boards:
 *  Xilinx VCU118 (Xilinx Virtex UltraScale+ XCVU9P)
 *  Xilinx VCU1525 (Xilinx Virtex UltraScale+ XCVU9P)
 *  Xilinx ZCU106 (Xilinx Zynq UltraScale+ XCZU7EV)
+*  Opal Kelly XEM8320 (Xilinx Artix Ultrascale+ XCAU25P-FFVB676-2-E) + SZG-PCIEX4
 
 ## Documentation
 
